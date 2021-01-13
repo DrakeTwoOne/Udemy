@@ -1,2 +1,2 @@
 # Udemy
-This is a repository for new coding projects. - Tim Thomas, 13/1/2021
+This is a repository for new coding projects. - Tim Thomas, Jan 13th 2021
